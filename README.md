@@ -1,4 +1,4 @@
-### Hy!I´m Roxana 👋
+### Hy! I'm Roxana 👋
 
 Full Stack Web Developer
 
