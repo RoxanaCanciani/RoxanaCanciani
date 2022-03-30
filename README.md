@@ -1,5 +1,7 @@
 ### Hola!!Soy Roxana 👋
 
+Full Stack Web Developer
+
 <!--
 **RoxanaCanciani/RoxanaCanciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
