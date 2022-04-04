@@ -19,6 +19,7 @@ Full Stack Web Developer
 - ⚡ App-Videogames
 - ⚡ App-Countries
 - ⚡ App-Food
+</br>
 Languages and Tools used:
 * JavaScript
 * React - Redux
